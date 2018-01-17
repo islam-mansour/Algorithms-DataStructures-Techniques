@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1516193128 source:d:\programming\algorithms\datastructures\double_linked_list\main.cpp
+	<iostream>
+	"Double_Linked_List.h"
+
+1516193128 d:\programming\algorithms\datastructures\double_linked_list\include\double_linked_list.h
+	"Node.h"
+
+1516191208 d:\programming\algorithms\datastructures\double_linked_list\include\node.h
+	<iostream>
+
