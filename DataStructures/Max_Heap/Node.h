@@ -9,15 +9,15 @@ class Node
 {
     public:
         T value;
-        Node<T> *left, *right, *parent;
-        Node();
+        Node<T> *parent, *left, *right;
 
+        Node();
 };
 
 template<class T>
 Node<T>::Node(){
 
-    left = right = parent = NULL;
+    parent = left = right = NULL;
 
 }
 
